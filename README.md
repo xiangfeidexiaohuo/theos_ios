@@ -12,7 +12,7 @@
 
 * 4、下载本项目的所有内容，放入var/theos(或者/theos)文件夹内
 
-* 5、去[iOS-SDKs项目](https://github.com/xybp888/iOS-SDKs)下载sdk放入到var/theos/sdks/下
+* 5、本项目已自带iOS9-14的部分sdk，若需要其他sdk，去[iOS-SDKs项目](https://github.com/xybp888/iOS-SDKs)下载sdk放入到/sdks/下
 
 
 
