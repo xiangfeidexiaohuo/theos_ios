@@ -1,11 +1,20 @@
-# Theos: *Unified cross-platform Makefile system.*
-Please note: Theos has undergone a number of changes recently. To learn more, visit [**the wiki**](https://github.com/theos/theos/wiki).
+## theos for ios
 
-See [LICENSE.md](LICENSE.md) for licensing information.
+#### iOS手机端部署theos，适合有点基础的朋友，小白就绕道。
 
-## Build Status
-| macOS | Windows |
-| ----- | ------- |
-| [![Travis Status](https://travis-ci.org/theos/theos.svg)](https://travis-ci.org/theos/theos) | [![AppVeyor Status](https://ci.appveyor.com/api/projects/status/0y5mguq1j0lkr7vv?svg=true)](https://ci.appveyor.com/project/kirb/theos) |
+#### 不答疑，仅做简单的分享，备份之用。
 
-Theos is tested via [continuous integration](https://en.wikipedia.org/wiki/Continuous_integration) to ensure it remains compatible with popular Theos-based projects. An error above doesn’t necessarily mean Theos isn’t working at all on that platform — just that the test suite failed.
+* 1、适用于iOS越狱(特指unc0ver越狱，其他工具越狱另寻他法)设备部署theos环境。
+
+* 2、测试设备：iPhoneX iOS14.1 unc0ver越狱
+
+* 3、首先请安装BigBoss源内的Theos Auto Installer_5.1.8(这个版本不会出错，不要安装作者源内的v5.2.2版本)
+
+* 4、下载本项目的所有内容，放入var/theos(或者/theos)文件夹内
+
+* 5、去[iOS-SDKs项目](https://github.com/xybp888/iOS-SDKs)下载sdk放入到var/theos/sdks/下
+
+
+
+
+
